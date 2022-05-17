@@ -1,3 +1,4 @@
+;试编写汇编程序，对键盘输入的小写字母用大写字母显示出来
 s1 segment stack
 dw 30h dup(?)
 top label word
